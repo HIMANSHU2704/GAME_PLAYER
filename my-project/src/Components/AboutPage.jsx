@@ -17,7 +17,7 @@ function AboutPage() {
 
           <p className="text-1.5xl leading-relaxed tracking-wide text-gray-300 mb-4">
             Welcome to{" "}
-            <span className="font-bold text-indigo-400">TeleGames</span>! We are
+            <span className="font-bold text-indigo-400">TeleGames (Game_Zone)</span>! We are
             dedicated to bringing you a fun and interactive gaming experience
             right at your fingertips. Our platform allows you to enjoy a wide
             selection of games that can be played instantly on our website or
